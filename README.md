@@ -1,49 +1,37 @@
-# 📌 IDS Data Validation
-A short tagline or description of your project.
+# ✅ IDS Data Validator (VBA)
+
+A VBA script that adds a button to validate data on IDS forms. If incorrect data is detected, the script highlights the issues using conditional formatting and provides guidance on how to correct them.
 
 ---
 
 ## 📖 Description
-Briefly explain:
-- What the project does
-- Why you built it
-- The problem it solves
+This project automates data validation for IDS (Information/Data Sheets) in Excel.  
+Key features:
+- Adds a validation button to the sheet.
+- Checks for incorrect or missing data.
+- Highlights errors using conditional formatting.
+- Displays instructions for fixing issues.
 
 ---
+## 🚀 Enhancements
+This version introduces several improvements over the initial implementation:
 
-## 🗂 Table of Contents
-- [Features](#features)
-- Installation
-- Usage
-- [Configuration](#configuration)
-- Screenshots
-- [Conributing
-- License
-- Contact
+- **Dynamic Error Highlighting**  
+  Enhanced conditional formatting to adapt based on error type for better visibility.
 
----
+- **Detailed Correction Guidance**  
+  Added context-specific instructions for each validation error, making it easier for users to fix issues.
 
-## ✅ Features
-- Feature 1
-- Feature 2
-- Feature 3
+- **Performance Optimization**  
+  Reduced validation time by streamlining VBA loops and using efficient range checks.
 
----
+- **Improved User Experience**  
+  Validation button now includes a progress indicator and clearer success/error messages.
 
-## 🔧 Installation
-### Prerequisites
-- Example: `Python 3.10+`
-- Example: `Node.js v18+`
+- **Modular Code Structure**  
+  Refactored VBA code into reusable functions for easier maintenance and scalability.
 
-### Steps
-```bash
-# Clone the repository
-git clone https://github.com/your-username/project-name.git
+*(Add screenshots or GIFs if you want to visually show these improvements.)*
 
-# Navigate to the project folder
-cd project-name
-
-# Install dependencies
-npm install   # or pip install -r requirements.txt
 
 <img width="350" height="324" alt="Screenshot 2025-10-08 104344" src="https://github.com/user-attachments/assets/576654fb-c38f-4dc4-8309-3c5805eea3c0" />
