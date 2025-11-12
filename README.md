@@ -1,4 +1,4 @@
-# ✅ IDS Data Validator (VBA)
+#  IDS Data Validator (VBA)
 
 A VBA script that adds a button to validate data on IDS forms. If incorrect data is detected, the script highlights the issues using conditional formatting and provides guidance on how to correct them.
 
@@ -13,8 +13,9 @@ Key features:
 - Displays instructions for fixing issues.
 - 
 <img width="350" height="324" alt="Screenshot 2025-10-08 104344" src="https://github.com/user-attachments/assets/576654fb-c38f-4dc4-8309-3c5805eea3c0" />
+
 ---
-## 🚀 Validations
+##  Validations
 This IDS Iteration checks the below feilds to ensure accuarcey:
 
 - **Required fields are not blank**  
